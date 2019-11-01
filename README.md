@@ -1,3 +1,5 @@
+### In this repository we find concepts, tools, habilities and other "must known" things for a front-end web developer.
+
 # JavaScript
 
 - EcmaScript Specification
