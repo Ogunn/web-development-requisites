@@ -13,13 +13,13 @@
   - Links:
     - https://tc39.es/ (TC39 website)
 
-- Typescript
+- [Typescript](./TYPESCRIPT.md)
 - DOM API
 - Nodejs
 - Server Side Rendering
 - Libraries:
 
-  - React
+  - [React](./REACTJS.md)
     - React Component Patterns
       - Links:
         - https://reactpatterns.com/
